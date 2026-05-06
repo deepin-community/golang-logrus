@@ -1,3 +1,9 @@
+golang-logrus (1.9.0-1deepin1) unstable; urgency=medium
+
+  * Fix CVE-2025-65637: DoS vulnerability in Writer() (Closes: #-)
+
+ -- deepin-ci-robot <packages@deepin.org>  Wed, 06 May 2026 11:48:11 +0800
+
 golang-logrus (1.9.0-1) unstable; urgency=medium
 
   * Team upload.
